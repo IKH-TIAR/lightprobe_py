@@ -1,0 +1,116 @@
+[
+  {
+    "id": "DYNAMIC_PROBE_DETECT",
+    "label": "Dynamic Light Probe Detect (Recommended)",
+    "tagline": "Probe reads each scene coordinate & shifts genre lens automatically",
+    "description": "The Light Probe dives into each pocket of time, evaluates immediate emotional tension, and selects the matching genre lens (S01–S18) dynamically."
+  },
+  {
+    "id": "S01_SHRINE_SLICEOFLIFE",
+    "label": "S01: Shrine / Slice-of-Life",
+    "tagline": "Sensory stillness, quiet ritual, micro-shifts",
+    "description": "Grounds every beat in tangible physical routine, acoustic calm, and subtle emotional shifts under the surface."
+  },
+  {
+    "id": "S02_CIVILIZATIONAL_COLLAPSE",
+    "label": "S02: Civilizational Collapse",
+    "tagline": "Systemic decay, supply breakdown, infrastructure failure",
+    "description": "Physicalized scarcity, collapsing logistics, institutional entropy, and lived survival pressure."
+  },
+  {
+    "id": "S03_COSMIC_SCIFI",
+    "label": "S03: Cosmic Sci-Fi",
+    "tagline": "Vast scale, technological hum, existential vertigo",
+    "description": "Acoustic void, mechanical resonance, cold vacuum, and the immense weight of deep-space reality."
+  },
+  {
+    "id": "S04_FANTASY_MYTHIC",
+    "label": "S04: Fantasy / Mythic",
+    "tagline": "Ancient weight, tactile vows, irreversible consequences",
+    "description": "Grounded physical magic, worn stones, binding oaths, and the material consequences of power."
+  },
+  {
+    "id": "S05_ROMANCE_DRAMA",
+    "label": "S05: Romance / Emotional Drama",
+    "tagline": "Subtext-heavy, what remains unsaid, tactile proximity",
+    "description": "Nervous micro-actions, charged silences, physical distance, and defensive emotional choreography."
+  },
+  {
+    "id": "S06_PSYCHOLOGICAL_THRILLER",
+    "label": "S06: Psychological Thriller",
+    "tagline": "Defensive cognition, paranoia, high-tension blind spots",
+    "description": "Real-time fragmented thinking, calculating survival, perceptual blind spots, and coiling dread."
+  },
+  {
+    "id": "S07_HORROR_SLOWDREAD",
+    "label": "S07: Horror / Slow Dread",
+    "tagline": "Uncanny details, atmospheric pressure, coiling dread",
+    "description": "Visceral bodily discomfort, wrong acoustic pitches, escalating ambient menace without cheap jumps."
+  },
+  {
+    "id": "S08_ACTION_KINETIC",
+    "label": "S08: Action / Kinetic",
+    "tagline": "Physical momentum, impact physics, staccato beats",
+    "description": "Spatial awareness, bodily impact, breath control, adrenaline response, and rapid kinetic cadence."
+  },
+  {
+    "id": "S09_SYSTEMIC",
+    "label": "S09: Systemic",
+    "tagline": "Institutional gears, bureaucratic pressure, logistics",
+    "description": "Supply chains, regulatory squeeze, currency velocity, and systemic friction grinding down individual souls."
+  },
+  {
+    "id": "S10_COMING_OF_AGE",
+    "label": "S10: Coming-of-Age",
+    "tagline": "Identity friction, boundary crossing, raw vulnerability",
+    "description": "The physical discomfort of growth, disillusionment with adults, and testing limits in an unforgiving world."
+  },
+  {
+    "id": "S11_UNDERGROUND_STREET",
+    "label": "S11: Underground / Street",
+    "tagline": "Streetwise observation, contraband, back-alley grit",
+    "description": "Scent of alley exhaust, illicit transactions, alert eyes tracking exits, and survival pragmatism."
+  },
+  {
+    "id": "S12_HISTORICAL_TESTIMONY",
+    "label": "S12: Historical Testimony",
+    "tagline": "Documentary gravity, material evidence, sober truth",
+    "description": "Weight of real-world physical evidence, sober voice of lived witness, and strict chronological integrity."
+  },
+  {
+    "id": "S13_COMEDY_ABSURDIST",
+    "label": "S13: Comedy / Absurdist",
+    "tagline": "Deadpan delivery, escalating bureaucratic absurdity",
+    "description": "Dry observational timing, straight-faced reactions to systemic madness, and sharp dialogue irony."
+  },
+  {
+    "id": "S14_SUPERNATURAL_SLICEOFLIFE",
+    "label": "S14: Supernatural Slice-of-Life",
+    "tagline": "The everyday mundane rubbing against the eerie",
+    "description": "Routine domestic tasks happening right alongside inexplicable otherworldly anomalies."
+  },
+  {
+    "id": "S15_CIVILIZATIONAL_WITNESS",
+    "label": "S15: Civilizational Witness",
+    "tagline": "Observer of monumental historical shifts & collective scars",
+    "description": "Long-arc perspective, documenting irreversible shifts across generations and working-class populations."
+  },
+  {
+    "id": "S16_MILITARY_SURVIVOR",
+    "label": "S16: Military / Survivor",
+    "tagline": "Tactical discipline, physical exhaustion, command tension",
+    "description": "Rations, equipment maintenance, blistered boots, chain of command tension, and combat aftermath."
+  },
+  {
+    "id": "S17_MYSTERY_UNKNOWN",
+    "label": "S17: Mystery / Unknown World",
+    "tagline": "Investigative tension, clue accumulation, eerie secrets",
+    "description": "Close inspection of anomalous artifacts, unanswered questions, and following causal chains."
+  },
+  {
+    "id": "S18_COLLECTIVE_MEMORY",
+    "label": "S18: Collective Memory",
+    "tagline": "Layered timelines, oral testimony, ancestral echoes",
+    "description": "How shared trauma and working-class lore echo through songs, habits, and community architecture."
+  }
+]
